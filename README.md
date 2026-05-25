@@ -125,4 +125,6 @@ Firmware development — specifically adapting the Pan-Tompkins QRS detection co
 
 ---
 
-*EE445 Bioelectronics — Dublin City University, 2024*
+*EE445 Bioelectronics, Dublin City University, 2024 (group project)*
+
+*Full portfolio: [portfolio.subhankar-tripathi.workers.dev](https://portfolio.subhankar-tripathi.workers.dev/)*
